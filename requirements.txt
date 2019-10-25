@@ -1,0 +1,9 @@
+trio==0.11.0
+Quart==0.10.0
+Quart-Trio==0.4.0
+trio-websocket==0.8.0
+trio-asyncio==0.9.1
+IP2Location==8.2.2
+asks==2.3.6
+async-property==0.2.1
+anyio==1.1.0
